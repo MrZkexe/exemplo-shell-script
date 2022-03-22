@@ -1,7 +1,1 @@
-<object width="425" height="350">
-  <param name="movie" value="https://www.youtube.com/watch?v=isTv-8mgybY" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://www.youtube.com/watch?v=isTv-8mgybY"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/isTv-8mgybY/0.jpg)](http://www.youtube.com/watch?v=isTv-8mgybY "automatizar ferramenta com shell script - [automatizando hydra com shell script]")
